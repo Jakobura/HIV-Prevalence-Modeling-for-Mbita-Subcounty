@@ -48,8 +48,7 @@ Behavioral factors like condom use and HIV testing frequency significantly impac
 Random Forest model achieved strong predictive performance and highlighted actionable features for targeted interventions.
 
 
-**Recommendations & Impact
-**
+**Recommendations & Impact**
 
 Prioritize interventions in areas with high poverty and low male circumcision.
 
