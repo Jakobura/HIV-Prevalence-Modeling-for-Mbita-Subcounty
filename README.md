@@ -50,6 +50,7 @@ Random Forest model achieved strong predictive performance and highlighted actio
 
 **Recommendations & Impact
 **
+
 Prioritize interventions in areas with high poverty and low male circumcision.
 
 
@@ -63,5 +64,6 @@ Extend the model to incorporate GIS or temporal data for improved precision.
 
 
 **Conclusion**
+
 Machine learning effectively predicts HIV prevalence at the sub-county level, enabling data-driven decision-making for public health planning. Insights from this project support targeted HIV prevention strategies in high-risk regions.
 
