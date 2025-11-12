@@ -1,8 +1,11 @@
 # HIV-Prevalence-Modeling-for-Mbita-Subcounty
+
 **Project Background**
+
 Mbita Sub-County, Homa Bay County, Kenya, has one of the highest HIV prevalence rates in the country. Public health authorities face challenges due to sparse sub-county data. This project applied machine learning to predict HIV prevalence (%) using socio-demographic, behavioral, health-service, and environmental features, supporting data-driven planning for HIV prevention.
 
 **Research Problem**
+
 Develop a predictive model for HIV prevalence using features such as population density, education levels, poverty rate, male circumcision rate, condom use, HIV testing coverage, and health facility density. The aim was to identify key determinants of HIV prevalence and provide actionable insights for targeted interventions.
 
 
